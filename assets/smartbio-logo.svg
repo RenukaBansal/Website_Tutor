@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 180" role="img" aria-labelledby="title desc">
+  <title id="title">SMARTBIO</title>
+  <desc id="desc">SMARTBIO GCSE and A Level Tutoring logo with a DNA and leaf mark.</desc>
+  <defs>
+    <style>
+      .brand-green { fill: #075239; }
+      .brand-stroke { fill: none; stroke: #075239; stroke-width: 7; stroke-linecap: round; stroke-linejoin: round; }
+      .wordmark { font-family: Georgia, Times, serif; font-size: 74px; letter-spacing: 6px; }
+      .subtitle { font-family: Segoe UI, Helvetica, Arial, sans-serif; font-size: 24px; letter-spacing: 4px; }
+    </style>
+  </defs>
+  <g transform="translate(250 0) scale(0.52)">
+    <path class="brand-stroke" d="M37 49C54 22 80 18 97 5c3 33-15 57-49 67"/>
+    <path class="brand-stroke" d="M36 70C20 81 16 105 30 124"/>
+    <path class="brand-stroke" d="M70 70C86 81 90 105 76 124"/>
+    <path class="brand-stroke" d="M31 84h44M26 100h54M31 116h44"/>
+    <path class="brand-stroke" d="M26 46c2 15 9 25 22 31"/>
+    <path class="brand-stroke" d="M42 66c12-28 33-39 48-48"/>
+  </g>
+  <text class="brand-green wordmark" x="280" y="128" text-anchor="middle">SMARTBIO</text>
+  <text class="brand-green subtitle" x="280" y="166" text-anchor="middle">GCSE &amp; A Level Tutoring</text>
+</svg>
